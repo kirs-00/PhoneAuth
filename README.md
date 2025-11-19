@@ -1,5 +1,5 @@
 # firebase_app
-#this is testing
+
 A new Flutter project.
 
 ## Getting Started
